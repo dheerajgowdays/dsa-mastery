@@ -20,5 +20,5 @@ public class ATeam{
 
         System.out.println(solvedCount);
         sc.close();
-    }
+    }S
 }
